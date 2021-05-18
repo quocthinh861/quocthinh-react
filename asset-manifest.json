@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/quocthinh-react/static/css/main.ba278dc7.chunk.css",
+    "main.js": "/quocthinh-react/static/js/main.c29e0eab.chunk.js",
+    "main.js.map": "/quocthinh-react/static/js/main.c29e0eab.chunk.js.map",
+    "runtime-main.js": "/quocthinh-react/static/js/runtime-main.45c8b9a3.js",
+    "runtime-main.js.map": "/quocthinh-react/static/js/runtime-main.45c8b9a3.js.map",
+    "static/js/2.df9ebfaa.chunk.js": "/quocthinh-react/static/js/2.df9ebfaa.chunk.js",
+    "static/js/2.df9ebfaa.chunk.js.map": "/quocthinh-react/static/js/2.df9ebfaa.chunk.js.map",
+    "index.html": "/quocthinh-react/index.html",
+    "static/css/main.ba278dc7.chunk.css.map": "/quocthinh-react/static/css/main.ba278dc7.chunk.css.map",
+    "static/js/2.df9ebfaa.chunk.js.LICENSE.txt": "/quocthinh-react/static/js/2.df9ebfaa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45c8b9a3.js",
+    "static/js/2.df9ebfaa.chunk.js",
+    "static/css/main.ba278dc7.chunk.css",
+    "static/js/main.c29e0eab.chunk.js"
+  ]
+}
